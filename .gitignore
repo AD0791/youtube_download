@@ -1,5 +1,7 @@
 *.mp4
 
 ./chakraui/*.mp4
+./statistics/*.mp4
 ./typescript/*.mp4
 ./grafanaprometheustelegraf/*.mp4
+.DS_STORE
