@@ -5,3 +5,5 @@
 ./typescript/*.mp4
 ./grafanaprometheustelegraf/*.mp4
 .DS_STORE
+./wp_react/*.mp4
+./wp_react_list/*.mp4
